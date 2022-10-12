@@ -5,7 +5,7 @@ If a player rolls 1: their total score is reset & the turn is given to the other
 If a player rolls 2-6: points will accumulate to current score. 
 If a player decided to hold: The current score will be added to the respective total score.
 
-*Created in a follow along course...
+*Taught in extended-learning course*
 
 
 # What I Learned...
